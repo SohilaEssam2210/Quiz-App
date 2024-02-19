@@ -64,28 +64,12 @@
     "right_answer": "<blockquote>"
   },
   {
-    "title": "In HTML Can We Use This Way To Add Attributes ?",
-    "answer_1": "<div class='class-name'>",
-    "answer_2": "<div class=class-name>",
-    "answer_3": "<div class=\"class-name\">",
-    "answer_4": "All Is Right",
-    "right_answer": "All Is Right"
-  },
-  {
     "title": "What Does CSS Stand For ?",
     "answer_1": "Cascading Style Sheets",
     "answer_2": "Creative Style Sets",
     "answer_3": "Computer Style Sheets",
     "answer_4": "Crazy Style Sheets",
     "right_answer": "Cascading Style Sheets"
-  },
-  {
-    "title": "Which HTML Element is Used to Display Unordered Lists ?",
-    "answer_1": "<ul>",
-    "answer_2": "<ol>",
-    "answer_3": "<li>",
-    "answer_4": "<ul> and <ol> both",
-    "right_answer": "<ul>"
   },
   {
     "title": "What Does the CSS Property 'display: none;' Do ?",
@@ -96,28 +80,12 @@
     "right_answer": "Hides an Element Without Reserving Space for It"
   },
   {
-    "title": "Which HTML Element is Used to Define a Hyperlink ?",
-    "answer_1": "<link>",
-    "answer_2": "<anchor>",
-    "answer_3": "<hyperlink>",
-    "answer_4": "<a>",
-    "right_answer": "<a>"
-  },
-  {
     "title": "What is the Purpose of the CSS Property 'margin' ?",
     "answer_1": "To Change the Background Color of an Element",
     "answer_2": "To Add Space Outside an Element's Border",
     "answer_3": "To Change the Font Size of Text",
     "answer_4": "To Underline Text",
     "right_answer": "To Add Space Outside an Element's Border"
-  },
-  {
-    "title": "What Does the HTML Attribute 'alt' in the <img> Element Do ?",
-    "answer_1": "Specifies the Alignment of the Image",
-    "answer_2": "Provides a Description of the Image for Accessibility",
-    "answer_3": "Controls the Width of the Image",
-    "answer_4": "Sets the Source URL of the Image",
-    "right_answer": "Provides a Description of the Image for Accessibility"
   },
   {
     "title": "What is the Box Model in CSS ?",
@@ -142,21 +110,5 @@
     "answer_3": "Define Mathematical Formulas",
     "answer_4": "Style Text with Advanced Typography",
     "right_answer": "Create Animated Graphics and Visuals"
-  },
-  {
-    "title": "What is the Purpose of the HTML Element <article> ?",
-    "answer_1": "To Define a Footer for a Document",
-    "answer_2": "To Mark Text as Deleted",
-    "answer_3": "To Define an Independent Piece of Content",
-    "answer_4": "To Insert an Inline Frame",
-    "right_answer": "To Define an Independent Piece of Content"
-  },
-  {
-    "title": "What is the Purpose of the HTML Element <nav> ?",
-    "answer_1": "To Define a Navigation Menu",
-    "answer_2": "To Create a New Web Page",
-    "answer_3": "To Embed Video Content",
-    "answer_4": "To Format Text as a Heading",
-    "right_answer": "To Define a Navigation Menu"
   }
 ]
