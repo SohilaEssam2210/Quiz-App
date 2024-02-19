@@ -150,17 +150,17 @@ function checkAnswer(rAnswer, count) {
 function showResult(count) {
   let theResults;
   if (currentIndex === count) {
-    quizArea.remove();
-    answerArea.remove();
-    submitBtn.remove();
-    bullets.remove();
+    quizArea.parentNode.removeChild(quizArea);
+    answerArea.parentNode.removeChild(answerArea);
+    submitBtn.parentNode.removeChild(submitBtn);
+    bullets.parentNode.removeChild(bullets);
+
     if (rightAnswer > count / 2 && rightAnswer < count) {
       theResults = `<span class="good"> Good </span>, ${rightAnswer} From ${count}`;
-    }
-    if (rightAnswer === count) {
-      theResults = `<span class="perfect"> Perfect </span>, ${rightAnswer} From ${count} I Good`;
+    } else if (rightAnswer === count) {
+      theResults = `<span class="perfect"> Perfect </span>, ${rightAnswer} From ${count} Good`;
     } else {
-      theResults = `<span class="bad"> Bad </span>, ${rightAnswer} From ${count}`;
+      theResults = `<span class="bad"> Bad </span>, ${rightAnswer} from ${count}`;
     }
 
     resultContainer.innerHTML = theResults;
@@ -169,6 +169,7 @@ function showResult(count) {
     resultContainer.style.marginTop = "10px";
   }
 }
+
 
 // Start CountDown function
 function countdown(duration, count) {
