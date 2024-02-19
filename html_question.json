@@ -110,5 +110,13 @@
     "answer_3": "Define Mathematical Formulas",
     "answer_4": "Style Text with Advanced Typography",
     "right_answer": "Create Animated Graphics and Visuals"
+  },
+  {
+    "title": "What Does the CSS Property 'flex-shrink' Control?",
+    "answer_1": "The Ability of Flex Items to Grow",
+    "answer_2": "The Ability of Flex Items to Shrink",
+    "answer_3": "The Alignment of Flex Items",
+    "answer_4": "The Spacing Between Flex Items",
+    "right_answer": "The Ability of Flex Items to Shrink"
   }
 ]

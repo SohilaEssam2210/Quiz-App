@@ -139,10 +139,17 @@ body {
   .quiz-app {
     width: 100%;
   }
+  .quiz-app .bullets {
+    display: flex;
+    flex-direction: column;
+  }
+  .quiz-app .bullets .countdown {
+    width: fit-content;
+    margin: 17px auto;
+  }
   .quiz-app .quiz-info {
     flex-direction: column;
   }
-  
   .quiz-app .quiz-info .category,
   .quiz-app .quiz-info .difficulty {
     flex: none;
