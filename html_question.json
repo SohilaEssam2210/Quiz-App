@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Why We Use <br> Element ?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline ",
+    "answer_4": "To Add Horizontal Line",
+    "right_answer": " To Add Breakline "
+  },
+  {
+    "title": "Is <img> Element Has Attribute href ?",
+    "answer_1": "Yes",
+    "answer_2": "No Its For Anchor Tag <a>",
+    "answer_3": "All Elements Has This Attribute",
+    "answer_4": "Answer 1 And 3 Is Right",
+    "right_answer": "No Its For Anchor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold ?",
+    "answer_1": "Putting It Inside <b> Tag",
+    "answer_2": "Putting It Inside <strong> Tag",
+    "answer_3": "Customizing It With Font-Weight Property In CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Right Hierarchy For Creating Part Of Page ?",
+    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "All Solutions Is Wrong"
+  },
+  {
+    "title": "How Can We Include External Page Inside Our HTML Page ?",
+    "answer_1": "By Using Include in HTML",
+    "answer_2": "By Using Load In HTML",
+    "answer_3": "By Using iFrame Tag",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "By Using iFrame Tag"
+  },
+  {
+    "title": "What Is The Tag That Not Exists in HTML ?",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All Tags Is Exists in HTML",
+    "right_answer": "All Tags Is Exists in HTML"
+  },
+  {
+    "title": "How We Specify Document Type Of HTML5 Page ?",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics ?",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes ?",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": "What Does CSS Stand For ?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Creative Style Sets",
+    "answer_3": "Computer Style Sheets",
+    "answer_4": "Crazy Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which HTML Element is Used to Display Unordered Lists ?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<ul> and <ol> both",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "What Does the CSS Property 'display: none;' Do ?",
+    "answer_1": "Hides an Element Without Reserving Space for It",
+    "answer_2": "Makes an Element's Text Bold",
+    "answer_3": "Creates a Border Around an Element",
+    "answer_4": "Adds a Shadow to an Element",
+    "right_answer": "Hides an Element Without Reserving Space for It"
+  },
+  {
+    "title": "Which HTML Element is Used to Define a Hyperlink ?",
+    "answer_1": "<link>",
+    "answer_2": "<anchor>",
+    "answer_3": "<hyperlink>",
+    "answer_4": "<a>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What is the Purpose of the CSS Property 'margin' ?",
+    "answer_1": "To Change the Background Color of an Element",
+    "answer_2": "To Add Space Outside an Element's Border",
+    "answer_3": "To Change the Font Size of Text",
+    "answer_4": "To Underline Text",
+    "right_answer": "To Add Space Outside an Element's Border"
+  },
+  {
+    "title": "What Does the HTML Attribute 'alt' in the <img> Element Do ?",
+    "answer_1": "Specifies the Alignment of the Image",
+    "answer_2": "Provides a Description of the Image for Accessibility",
+    "answer_3": "Controls the Width of the Image",
+    "answer_4": "Sets the Source URL of the Image",
+    "right_answer": "Provides a Description of the Image for Accessibility"
+  },
+  {
+    "title": "What is the Box Model in CSS ?",
+    "answer_1": "A Method for Creating Rounded Corners on Elements",
+    "answer_2": "A Concept That Describes How Elements Are Rendered as Boxes",
+    "answer_3": "A Technique for Centering Elements on a Page",
+    "answer_4": "A Way to Add Shadows to Elements",
+    "right_answer": "A Concept That Describes How Elements Are Rendered as Boxes"
+  },
+  {
+    "title": "What is the Purpose of the CSS Property 'z-index' ?",
+    "answer_1": "To Adjust the Opacity of an Element",
+    "answer_2": "To Control the Vertical Stacking Order of Elements",
+    "answer_3": "To Rotate an Element",
+    "answer_4": "To Change the Width of an Element",
+    "right_answer": "To Control the Vertical Stacking Order of Elements"
+  },
+  {
+    "title": "What Does the HTML Element <canvas> Allow You to Do ?",
+    "answer_1": "Embed Audio Files",
+    "answer_2": "Create Animated Graphics and Visuals",
+    "answer_3": "Define Mathematical Formulas",
+    "answer_4": "Style Text with Advanced Typography",
+    "right_answer": "Create Animated Graphics and Visuals"
+  },
+  {
+    "title": "What is the Purpose of the HTML Element <article> ?",
+    "answer_1": "To Define a Footer for a Document",
+    "answer_2": "To Mark Text as Deleted",
+    "answer_3": "To Define an Independent Piece of Content",
+    "answer_4": "To Insert an Inline Frame",
+    "right_answer": "To Define an Independent Piece of Content"
+  },
+  {
+    "title": "What is the Purpose of the HTML Element <nav> ?",
+    "answer_1": "To Define a Navigation Menu",
+    "answer_2": "To Create a New Web Page",
+    "answer_3": "To Embed Video Content",
+    "answer_4": "To Format Text as a Heading",
+    "right_answer": "To Define a Navigation Menu"
+  }
+]

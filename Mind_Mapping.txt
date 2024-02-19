@@ -1,0 +1,21 @@
+Done
+01 - Create JSON Object For Questions
+02 - Start Creating HTML MarkUp
+03 - Add Dummy Data
+04 - Create the Styling
+06 - Fetch Number of questions from JSON Object
+07 - show questions Count + questions category
+08 - set the number for the right and wrong answer 
+
+In Progress
+09 - create countdown timer
+10 - fetch the question from the json object 
+12 - show the first question
+13 - if the time End Mark the question As wrong
+14 - Add class on bullets after answering the question
+15 - if question finished show the results
+
+=> Idesa <=
+1. many JSON objects and choose languages
+2. Add many Questions and choose only 10 Randomly
+3. Randomize Answers ( Shuffle Function )
